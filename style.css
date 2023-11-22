@@ -159,3 +159,9 @@ h1.black {
   text-align: center;
   border: 0;
 }
+.portfolioImg img {
+  width: 100%;
+}
+.portfolioImg {
+  padding: 20px;
+}
